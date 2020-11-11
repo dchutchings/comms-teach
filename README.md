@@ -8,8 +8,8 @@ commsfs.ipynb - Fourier Series examples
 
 commsft.ipynb - Fourier Transform examples
 
-conv_bokeh.ipynb - Interactive graphical demonstration of convolution
-note: requires installation of jupyter labextension @jupyter-widgets/jupyterlab-manager and @bokeh/jupyter/bokeh for functionality
+conv_bokeh.ipynb - Interactive graphical demonstration of convolution. 
+note: requires installation of jupyter labextension @jupyter-widgets/jupyterlab-manager and @bokeh/jupyter_bokeh for functionality
 
 commsconv.ipynb - Convolution examples
 
